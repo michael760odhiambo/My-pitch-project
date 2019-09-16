@@ -16,6 +16,27 @@ post = [
         'content': 'this is her second posted content',
         'date_posted':'April 21, 2019'
 
+    },
+    {
+        'author':'Mily likes',
+        'title': 'Pitch 003',
+        'content': 'this is her third posted content',
+        'date_posted':'April 23, 2019'
+
+    },
+    {
+        'author':'Aluis Mbele',
+        'title': 'Pitch 004',
+        'content': 'this is her fouth posted content',
+        'date_posted':'April 24, 2019'
+
+    },
+    {
+        'author':'Fally Ipupa',
+        'title': 'Pitch 010',
+        'content': 'this is her 10th posted content',
+        'date_posted':'April 29, 2019'
+
     }
 ]
 
@@ -31,7 +52,7 @@ def about():
 def register():
     form = RegistrationForm()
     if form.validate_on_submit():
-        flash(f'Account Created for {{form.username.data}}!','success')
+        flash(f'Account Created for {form.username.data}!','success')
         return redirect(url_for('home'))
     return render_template('register.html',title='register',form=form)
 
