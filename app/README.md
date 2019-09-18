@@ -13,7 +13,7 @@
 
 * steps to follow
 * On GitHub, navigate to the main page of the repository.
-Under the repository name, click Clone or download.
+* Under the repository name, click Clone or download.
 In the Clone with HTTPs section, click to copy the clone URL for the repository.
 Open Terminal.
 Change the current working directory to the location where you want the cloned directory to be made.
