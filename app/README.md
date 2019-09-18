@@ -29,3 +29,6 @@
 * you will see something similar to what is above here and you will have already cloned the repo.
 
 # Contact
+* you can reach on social media through
+E-mail : michaelodhiambo760@gmail.com
+*
