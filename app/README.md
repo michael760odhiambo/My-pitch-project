@@ -11,7 +11,7 @@
 # Setup/Installation Instruction
 
 
-steps to follow
+* steps to follow
 On GitHub, navigate to the main page of the repository.
 Under the repository name, click Clone or download.
 In the Clone with HTTPs section, click to copy the clone URL for the repository.
