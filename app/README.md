@@ -2,3 +2,5 @@
 
 # Author
 * MICHAEL ODHIAMBO
+
+# Technologies used
