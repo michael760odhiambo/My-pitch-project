@@ -30,5 +30,4 @@
 
 # Contact
 * you can reach on social media through
-E-mail : michaelodhiambo760@gmail.com
-*
+* E-mail : michaelodhiambo760@gmail.com
