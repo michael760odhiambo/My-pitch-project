@@ -5,5 +5,5 @@
 
 # Technologies used
 * Flask
-Python
-*
+
+* Python
